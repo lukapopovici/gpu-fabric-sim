@@ -1,0 +1,16 @@
+# CMake build output
+/build/
+/cmake-build-*/
+/CMakeUserPresets.json
+/compile_commands.json
+
+# Local Python environment and bytecode
+/.venv/
+__pycache__/
+*.py[cod]
+
+# Generated telemetry and visualizations
+/telemetry*.csv
+/telemetry*.png
+/telemetry*.gif
+/comparison_heatmap.png
